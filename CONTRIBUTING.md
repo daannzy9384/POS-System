@@ -30,4 +30,4 @@ Please make sure your code is clean, well-structured, and properly documented.
 ## Contributors
 
 - daannzy9384 — Frontend (React + Vite)  
-- DevMoraes07 — Backend (Java)
+- DevMoraes07 — Backend (Java + Spring)
